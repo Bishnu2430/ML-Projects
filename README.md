@@ -2,5 +2,5 @@
 
 
 
-This repository contains my data analysis work, including Excel dashboards, reports, and Python-based visualizations.
+This repository contains a collection of ML projects, showcasing various techniques in data preprocessing, model building, evaluation, and visualization.
 
